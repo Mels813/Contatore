@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contatore</string>
+    <string name="incrementa">Incrementa</string>
+    <string name="decrementa">Decrementa</string>
+    <string name="text_view_0">0</string>
+</resources>
